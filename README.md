@@ -494,23 +494,18 @@ The paper presents a comprehensive study on developing an affordable, portable O
   <tr>
     <td align="center">
       <b>Kuragayala Sree Harsha</b><br>
-      <sub>Lead Developer & Hardware Designer</sub><br>
-      <a href="mailto:sreeharsha.k83@gmail.com">📧 Email</a>
     </td>
     <td align="center">
       <b>Shivani Guru Naik</b><br>
-      <sub>Software Developer & Researcher</sub>
     </td>
     <td align="center">
       <b>Md Tauseef</b><br>
-      <sub>Hardware Integration & Testing</sub>
     </td>
   </tr>
 </table>
 
-### Roles & Responsibilities
+### Roles & Responsibilities by Team
 
-**Kuragayala Sree Harsha** (Primary Contributor)
 - Complete hardware architecture design
 - OCR and TTS pipeline development
 - Raspberry Pi integration and GPIO programming
@@ -519,13 +514,9 @@ The paper presents a comprehensive study on developing an affordable, portable O
 - 3D enclosure design and fabrication
 - System testing and validation
 - IEEE research paper co-author
-
-**Shivani Guru Naik**
 - Software development and testing
 - User interface design
 - Documentation and research
-
-**Md Tauseef**
 - Hardware assembly and integration
 - Component testing and validation
 - System deployment support
