@@ -64,21 +64,21 @@ Image Capture → Image Processing → OCR → Text Extraction → Text-to-Speec
 ---
 
 ### 📷 Image Capture & Conversion
-![Capture](Picture taken and Convertion.png)
+![Capture](Picture_taken.png)
 
 Demonstrates real-time **image capture and OCR conversion process**, showing how printed text is extracted and processed.
 
 ---
 
 ### 📊 Accuracy & Speed Analysis
-![Accuracy](Average Accuracy and Speed.png)
+![Accuracy](Average.png)
 
 Performance comparison showing **OCR accuracy (~97.13%) and processing speed (~1.1 sec per image)**.
 
 ---
 
 ### 🌍 Visual Impairment Statistics
-![Stats](Prevalance of Visual Impairement.jpg)
+![Stats](Prevalance_of_Visual_Impairement.jpg)
 
 Illustrates the global need for assistive technologies by showing **prevalence of visual impairment worldwide**.
 
