@@ -26,25 +26,61 @@ This project was developed as a **Final Year Major Project** in:
 🎓 **Electronics & Communication Engineering (ECE)**  
 🏫 **REVA University, Bengaluru**  
 
-📄 Published at **IEEE ICCCNT Conference**
+📄 Published at **IEEE ICCCNT Conference 2024, IIT Mandi**
 
-**Author:** **Kuragayala Sree Harsha**
+**Authors:** **Kuragayala Sree Harsha** **Shivani Guru Naik** **Md Tauseef**
 
 ---
 
 ## 📸 Project Images
 
-### Device
-![Device](docs/device.jpg)
+### 📷 Final Device
+![Final Device](Final.jpg)
 
-### Hardware Architecture
-![Hardware](docs/hardware_architecture.png)
+This image shows the completed **Smart Reader prototype**, including Raspberry Pi, camera module, push button interface, and speaker integration inside the enclosure.
 
-### Process Flow
-![Flow](docs/flow.png)
+---
 
-### OCR Output
-![OCR](docs/ocr_result.png)
+### 🧠 Hardware Architecture
+![Hardware Architecture](Hardware_Architecture.jpg)
+
+This diagram illustrates the **overall hardware design**, including Raspberry Pi, webcam, push button (GPIO17), and Bluetooth speaker connections.
+
+---
+
+### 🔌 Hardware Connections
+![Connections](Connections.png)
+
+Detailed wiring diagram showing **GPIO connections**, power supply, push button wiring, and peripheral connections.
+
+---
+
+### 🔄 Process Flow Diagram
+![Flow](Flowdiagram.png)
+
+This diagram represents the **complete workflow** of the system:  
+Image Capture → Image Processing → OCR → Text Extraction → Text-to-Speech → Audio Output.
+
+---
+
+### 📷 Image Capture & Conversion
+![Capture](Picture taken and Convertion.png)
+
+Demonstrates real-time **image capture and OCR conversion process**, showing how printed text is extracted and processed.
+
+---
+
+### 📊 Accuracy & Speed Analysis
+![Accuracy](Average Accuracy and Speed .png)
+
+Performance comparison showing **OCR accuracy (~97.13%) and processing speed (~1.1 sec per image)**.
+
+---
+
+### 🌍 Visual Impairment Statistics
+![Stats](Prevalance of Visual Impairement.jpg)
+
+Illustrates the global need for assistive technologies by showing **prevalence of visual impairment worldwide**.
 
 ---
 
