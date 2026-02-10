@@ -375,23 +375,28 @@ if __name__ == "__main__":
 
 #### Final Assembled Device
 ![Final Device](Final.jpg)
+
 *Complete Smart Reader prototype with all components integrated in custom enclosure*
 
 #### System Architecture
 ![Hardware Architecture](Hardware_Architecture.jpg)
+
 *Overall hardware architecture showing component interconnections*
 
 #### Processing Workflow
 ![Process Flow](Flowdiagram.png)
+
 *Complete process flow from image capture to audio output*
 
 #### Real-Time Capture
 ![Image Capture](Picture_taken.png)
+
 *Demonstration of real-time image capture and OCR text extraction*
 
 ### Global Impact Context
 
 ![Visual Impairment Statistics](Prevalance_of_Visual_Impairement.jpg)
+
 *Global prevalence of visual impairment highlighting the need for assistive technologies*
 
 According to WHO data, over **2.2 billion people worldwide** have vision impairment, making assistive reading devices critical for accessibility and independence.
