@@ -49,14 +49,14 @@ This diagram illustrates the **overall hardware design**, including Raspberry Pi
 ---
 
 ### 🔌 Hardware Connections
-![Connections](Connections .png)
+![Connections](Connections.png)
 
 Detailed wiring diagram showing **GPIO connections**, power supply, push button wiring, and peripheral connections.
 
 ---
 
 ### 🔄 Process Flow Diagram
-![Flow](Flowdiagram .png)
+![Flow](Flowdiagram.png)
 
 This diagram represents the **complete workflow** of the system:  
 Image Capture → Image Processing → OCR → Text Extraction → Text-to-Speech → Audio Output.
@@ -64,14 +64,14 @@ Image Capture → Image Processing → OCR → Text Extraction → Text-to-Speec
 ---
 
 ### 📷 Image Capture & Conversion
-![Capture](Picture taken and Convertion .png)
+![Capture](Picture taken and Convertion.png)
 
 Demonstrates real-time **image capture and OCR conversion process**, showing how printed text is extracted and processed.
 
 ---
 
 ### 📊 Accuracy & Speed Analysis
-![Accuracy](Average Accuracy and Speed .png)
+![Accuracy](Average Accuracy and Speed.png)
 
 Performance comparison showing **OCR accuracy (~97.13%) and processing speed (~1.1 sec per image)**.
 
