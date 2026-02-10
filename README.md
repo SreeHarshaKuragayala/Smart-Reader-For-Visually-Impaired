@@ -112,7 +112,7 @@ User Input (Button Press) → Image Capture → Preprocessing → OCR → TTS �
 
 | Component | Specification | Purpose |
 |-----------|---------------|---------|
-| **Microcontroller** | Raspberry Pi 4 Model B (8GB RAM) | Main processing unit |
+| **Microprocessor** | Raspberry Pi 4 Model B (8GB RAM) | Main processing unit |
 | **Camera** | Logitech C270 HD Webcam (720p) | Image capture |
 | **Input Interface** | Metal LED Push Button | User trigger mechanism |
 | **Audio Output** | Bluetooth Speaker | Text-to-speech playback |
